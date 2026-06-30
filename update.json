@@ -1,0 +1,6 @@
+{
+  "version": "0.1.18",
+  "url": "https://github.com/Elianazhuk/System-Performance-Monitor/releases/download/v0.1.18/DesktopPerfMonitor.msi",
+  "sha256": "39c2e1a7c0dfc370755d02f5710aa4daf5e61f11a0dce62673dbfa373b40dd57",
+  "notes": "Switched the update manifest to GitHub raw (no Netlify)."
+}
