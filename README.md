@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29510573/README.md)
 # System Performance Monitor
 
 A lightweight **Windows desktop widget** that shows real‑time **CPU / GPU / RAM**
@@ -6,6 +5,10 @@ statistics in a small, borderless, always‑on‑top, draggable window. Built wi
 Rust + [iced](https://github.com/iced-rs/iced).
 
 > ⬇️ **[Download the latest version](https://github.com/Elianazhuk/System-Performance-Monitor/releases/latest)** — run the `DesktopPerfMonitor.msi` installer.
+
+<p align="center">
+  <img src="assets/widget.png" alt="System Performance Monitor widget" width="320">
+</p>
 
 ## Features
 
@@ -88,7 +91,11 @@ Order matters: publish the release first, then update `update.json`. The raw
 manifest is cached by GitHub's CDN for ~5 minutes, so clients see a new version
 shortly after.
 
-## Credits & licenses
+## License
+
+Released under the **MIT License** — see [`LICENSE`](./LICENSE).
+
+Bundled third‑party components keep their own licenses:
 
 - **[LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)**
   — hardware sensor readings (MPL‑2.0).
@@ -99,4 +106,4 @@ Third‑party notices ship alongside the installer.
 
 ---
 
-Made by **Eliana**.
+Made by **[Eliana](https://github.com/Elianazhuk)**.
