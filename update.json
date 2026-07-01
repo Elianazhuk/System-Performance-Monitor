@@ -1,6 +1,6 @@
 {
-  "version": "0.1.21",
-  "url": "https://github.com/Elianazhuk/System-Performance-Monitor/releases/download/v0.1.21/DesktopPerfMonitor.msi",
-  "sha256": "a9799e5555e910d26fb075ee50202a9067dfd08dba6c78ce63b0b18b110d81fd",
-  "notes": "Release 0.1.21"
+  "version": "0.1.22",
+  "url": "https://github.com/Elianazhuk/System-Performance-Monitor/releases/download/v0.1.22/DesktopPerfMonitor.msi",
+  "sha256": "4f63e231f27ea8c81c2a131ac10f14e21781236ae120d8294df2a78cccf2d098",
+  "notes": "Пожертвования переведены на USDT (TRC20): адрес, копирование и QR-код прямо в приложении (вместо PayPal)."
 }
